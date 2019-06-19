@@ -13,3 +13,4 @@ else:
         else:
             print("Goodbye World, Goodbye",user_name)
 
+print("Thank you and goodbye")
